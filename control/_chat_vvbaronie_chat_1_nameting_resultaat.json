@@ -1,0 +1,77 @@
+{
+  "bestand": "_chat_vvbaronie_chat_1",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": 8.0,
+    "support_mediaan_minuten": 8,
+    "support_aantal_issues": 1,
+    "feedbackrondes_totaal": 0,
+    "responstijd_gemiddelde_minuten": 5.1,
+    "responstijd_mediaan_minuten": 6,
+    "responstijd_aantal_metingen": 7,
+    "initiele_responstijd_gemiddelde_minuten": 2.0,
+    "initiele_responstijd_mediaan_minuten": 2,
+    "initiele_responstijd_aantal_metingen": 1
+  },
+  "detail": {
+    "support_issues": [
+      {
+        "omschrijving": "Ongebruikelijke activiteit op penningmeester mailadres - 108 mails verzonden naar Basecone",
+        "tijdstip_melding": "21/05/2026 14:25:28",
+        "tijdstip_reactie": "21/05/2026 14:33:28",
+        "responstijd_minuten": 8
+      }
+    ],
+    "feedbackrondes": {
+      "aantal": 0,
+      "omschrijvingen": []
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "21/05/2026 17:12:52",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:14:52",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "21/05/2026 17:13:06",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:18:06",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "21/05/2026 17:13:15",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:19:15",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "21/05/2026 17:13:24",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:17:24",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "21/05/2026 17:17:04",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:24:04",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "21/05/2026 17:17:31",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:23:31",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "21/05/2026 17:18:07",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:24:07",
+        "responstijd_minuten": 6
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "21/05/2026 17:12:52",
+        "tijdstip_kevin_of_stijn": "21/05/2026 17:14:52",
+        "responstijd_minuten": 2
+      }
+    ]
+  }
+}

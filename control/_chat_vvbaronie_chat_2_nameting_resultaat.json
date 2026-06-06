@@ -1,0 +1,28 @@
+{
+  "bestand": "_chat_vvbaronie_chat_2",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": null,
+    "support_mediaan_minuten": null,
+    "support_aantal_issues": 0,
+    "feedbackrondes_totaal": 0,
+    "responstijd_gemiddelde_minuten": null,
+    "responstijd_mediaan_minuten": null,
+    "responstijd_aantal_metingen": 0,
+    "initiele_responstijd_gemiddelde_minuten": null,
+    "initiele_responstijd_mediaan_minuten": null,
+    "initiele_responstijd_aantal_metingen": 0
+  },
+  "detail": {
+    "support_issues": [],
+    "feedbackrondes": {
+      "aantal": 0,
+      "omschrijvingen": []
+    },
+    "algemene_responstijden": [],
+    "initiele_responstijden": []
+  }
+}

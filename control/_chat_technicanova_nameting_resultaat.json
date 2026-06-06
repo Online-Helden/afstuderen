@@ -1,0 +1,42 @@
+{
+  "bestand": "_chat_technicanova",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": null,
+    "support_mediaan_minuten": null,
+    "support_aantal_issues": 0,
+    "feedbackrondes_totaal": 1,
+    "responstijd_gemiddelde_minuten": 5.0,
+    "responstijd_mediaan_minuten": 5,
+    "responstijd_aantal_metingen": 1,
+    "initiele_responstijd_gemiddelde_minuten": 2.0,
+    "initiele_responstijd_mediaan_minuten": 2,
+    "initiele_responstijd_aantal_metingen": 1
+  },
+  "detail": {
+    "support_issues": [],
+    "feedbackrondes": {
+      "aantal": 1,
+      "omschrijvingen": [
+        "Klant vraagt om wekelijkse vernieuwing van reviews op website (meest recente 4&5 sterren)"
+      ]
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "28/05/2026 09:52:47",
+        "tijdstip_kevin_of_stijn": "28/05/2026 09:57:47",
+        "responstijd_minuten": 5
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "28/05/2026 09:52:47",
+        "tijdstip_kevin_of_stijn": "28/05/2026 09:54:47",
+        "responstijd_minuten": 2
+      }
+    ]
+  }
+}

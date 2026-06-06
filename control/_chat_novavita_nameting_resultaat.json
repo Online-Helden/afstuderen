@@ -1,0 +1,112 @@
+{
+  "bestand": "_chat_novavita",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": 5.0,
+    "support_mediaan_minuten": 5,
+    "support_aantal_issues": 1,
+    "feedbackrondes_totaal": 0,
+    "responstijd_gemiddelde_minuten": 4.3,
+    "responstijd_mediaan_minuten": 4,
+    "responstijd_aantal_metingen": 9,
+    "initiele_responstijd_gemiddelde_minuten": 5.3,
+    "initiele_responstijd_mediaan_minuten": 6.0,
+    "initiele_responstijd_aantal_metingen": 6
+  },
+  "detail": {
+    "support_issues": [
+      {
+        "omschrijving": "E-mail ontvangt foutieve informatie bij aanbod en bezichtigingsaanvraag",
+        "tijdstip_melding": "21/05/2026 16:44:58",
+        "tijdstip_reactie": "21/05/2026 16:49:58",
+        "responstijd_minuten": 5
+      }
+    ],
+    "feedbackrondes": {
+      "aantal": 0,
+      "omschrijvingen": []
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "27/05/2026 14:20:10",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:27:10",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:35:12",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:39:12",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:35:18",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:39:18",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:35:22",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:38:22",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:35:29",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:38:29",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:48:17",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:55:17",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:54:45",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:58:45",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "27/05/2026 16:24:37",
+        "tijdstip_kevin_of_stijn": "27/05/2026 16:28:37",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "27/05/2026 16:24:38",
+        "tijdstip_kevin_of_stijn": "27/05/2026 16:27:38",
+        "responstijd_minuten": 3
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "21/05/2026 16:44:58",
+        "tijdstip_kevin_of_stijn": "21/05/2026 16:51:58",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:20:10",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:23:10",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:35:12",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:38:12",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:48:17",
+        "tijdstip_kevin_of_stijn": "27/05/2026 14:53:17",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "27/05/2026 14:54:45",
+        "tijdstip_kevin_of_stijn": "27/05/2026 15:01:45",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "27/05/2026 16:24:37",
+        "tijdstip_kevin_of_stijn": "27/05/2026 16:31:37",
+        "responstijd_minuten": 7
+      }
+    ]
+  }
+}

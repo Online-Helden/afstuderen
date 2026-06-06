@@ -1,0 +1,43 @@
+{
+  "bestand": "_chat_bloemennoord",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": 4.0,
+    "support_mediaan_minuten": 4,
+    "support_aantal_issues": 1,
+    "feedbackrondes_totaal": 1,
+    "responstijd_gemiddelde_minuten": 7.0,
+    "responstijd_mediaan_minuten": 7,
+    "responstijd_aantal_metingen": 1,
+    "initiele_responstijd_gemiddelde_minuten": null,
+    "initiele_responstijd_mediaan_minuten": null,
+    "initiele_responstijd_aantal_metingen": 0
+  },
+  "detail": {
+    "support_issues": [
+      {
+        "omschrijving": "Formulier wordt niet verzonden en naamveld ontbreekt",
+        "tijdstip_melding": "14/05/2026 10:51:32",
+        "tijdstip_reactie": "14/05/2026 10:55:32",
+        "responstijd_minuten": 4
+      }
+    ],
+    "feedbackrondes": {
+      "aantal": 1,
+      "omschrijvingen": [
+        "Klant geeft feedback over het formulier: naamveld ontbreekt en formulier wordt niet verzonden"
+      ]
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "14/05/2026 10:51:32",
+        "tijdstip_kevin_of_stijn": "14/05/2026 10:58:32",
+        "responstijd_minuten": 7
+      }
+    ],
+    "initiele_responstijden": []
+  }
+}

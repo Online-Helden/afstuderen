@@ -1,0 +1,77 @@
+{
+  "bestand": "_chat_youngtrader",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": null,
+    "support_mediaan_minuten": null,
+    "support_aantal_issues": 0,
+    "feedbackrondes_totaal": 1,
+    "responstijd_gemiddelde_minuten": 4.3,
+    "responstijd_mediaan_minuten": 4,
+    "responstijd_aantal_metingen": 7,
+    "initiele_responstijd_gemiddelde_minuten": 6.5,
+    "initiele_responstijd_mediaan_minuten": 6.5,
+    "initiele_responstijd_aantal_metingen": 2
+  },
+  "detail": {
+    "support_issues": [],
+    "feedbackrondes": {
+      "aantal": 1,
+      "omschrijvingen": [
+        "Veronique vraagt om de categorieën op de blogpagina aan te passen van 'Blog' naar 'Beleggen - Sparen - Crypto - Edelmetalen - Lifestyle' en de volgorde te wijzigen. Stijn reageert en past aan."
+      ]
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "15/05/2026 14:18:37",
+        "tijdstip_kevin_of_stijn": "15/05/2026 14:22:37",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "15/05/2026 14:19:09",
+        "tijdstip_kevin_of_stijn": "15/05/2026 14:24:09",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "15/05/2026 15:41:28",
+        "tijdstip_kevin_of_stijn": "15/05/2026 15:43:28",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "18/05/2026 10:34:24",
+        "tijdstip_kevin_of_stijn": "18/05/2026 10:40:24",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "18/05/2026 10:34:57",
+        "tijdstip_kevin_of_stijn": "18/05/2026 10:38:57",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "18/05/2026 12:06:09",
+        "tijdstip_kevin_of_stijn": "18/05/2026 12:10:09",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "18/05/2026 12:06:37",
+        "tijdstip_kevin_of_stijn": "18/05/2026 12:11:37",
+        "responstijd_minuten": 5
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "15/05/2026 14:18:37",
+        "tijdstip_kevin_of_stijn": "15/05/2026 14:24:37",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "18/05/2026 10:34:24",
+        "tijdstip_kevin_of_stijn": "18/05/2026 10:41:24",
+        "responstijd_minuten": 7
+      }
+    ]
+  }
+}

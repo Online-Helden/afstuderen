@@ -1,0 +1,60 @@
+{
+  "bestand": "_chat_smartagency",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": null,
+    "support_mediaan_minuten": null,
+    "support_aantal_issues": 0,
+    "feedbackrondes_totaal": 0,
+    "responstijd_gemiddelde_minuten": 5.5,
+    "responstijd_mediaan_minuten": 6.0,
+    "responstijd_aantal_metingen": 4,
+    "initiele_responstijd_gemiddelde_minuten": 5.0,
+    "initiele_responstijd_mediaan_minuten": 5.0,
+    "initiele_responstijd_aantal_metingen": 2
+  },
+  "detail": {
+    "support_issues": [],
+    "feedbackrondes": {
+      "aantal": 0,
+      "omschrijvingen": []
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "21/05/2026 13:01:51",
+        "tijdstip_kevin_of_stijn": "21/05/2026 13:08:51",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "21/05/2026 13:05:38",
+        "tijdstip_kevin_of_stijn": "21/05/2026 13:08:38",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "21/05/2026 13:07:00",
+        "tijdstip_kevin_of_stijn": "21/05/2026 13:12:00",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "25/05/2026 14:14:05",
+        "tijdstip_kevin_of_stijn": "25/05/2026 14:21:05",
+        "responstijd_minuten": 7
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "21/05/2026 13:01:51",
+        "tijdstip_kevin_of_stijn": "21/05/2026 13:06:51",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "25/05/2026 14:14:05",
+        "tijdstip_kevin_of_stijn": "25/05/2026 14:19:05",
+        "responstijd_minuten": 5
+      }
+    ]
+  }
+}

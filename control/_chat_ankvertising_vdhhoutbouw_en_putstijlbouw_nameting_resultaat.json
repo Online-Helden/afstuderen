@@ -1,0 +1,201 @@
+{
+  "bestand": "_chat_ankvertising_vdhhoutbouw_en_putstijlbouw",
+  "nametingperiode": {
+    "start": "13/05/2026",
+    "eind": "03/06/2026"
+  },
+  "statistieken": {
+    "support_gemiddelde_minuten": 8.0,
+    "support_mediaan_minuten": 8.0,
+    "support_aantal_issues": 2,
+    "feedbackrondes_totaal": 2,
+    "responstijd_gemiddelde_minuten": 4.9,
+    "responstijd_mediaan_minuten": 5.0,
+    "responstijd_aantal_metingen": 18,
+    "initiele_responstijd_gemiddelde_minuten": 3.9,
+    "initiele_responstijd_mediaan_minuten": 3,
+    "initiele_responstijd_aantal_metingen": 13
+  },
+  "detail": {
+    "support_issues": [
+      {
+        "omschrijving": "XML-RPC open, DMARC p=none, security headers ontbreken, WAF niet gedetecteerd",
+        "tijdstip_melding": "18/05/2026 17:04:32",
+        "tijdstip_reactie": "18/05/2026 17:12:32",
+        "responstijd_minuten": 8
+      },
+      {
+        "omschrijving": "Probleem met weergave Put Stijlbouw nieuwe site",
+        "tijdstip_melding": "19/05/2026 12:34:25",
+        "tijdstip_reactie": "19/05/2026 12:42:25",
+        "responstijd_minuten": 8
+      }
+    ],
+    "feedbackrondes": {
+      "aantal": 2,
+      "omschrijvingen": [
+        "Anke geeft feedback via Google Doc over PUT HOUTBOUW, Stijn reageert met opmerkingen over aanleverspecificaties en later met een nieuwe tool voor feedback.",
+        "Feedback op layout en positionering voor Put Stijlbouw (18-05-2026)"
+      ]
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "15/05/2026 09:52:30",
+        "tijdstip_kevin_of_stijn": "15/05/2026 09:55:30",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "15/05/2026 10:24:22",
+        "tijdstip_kevin_of_stijn": "15/05/2026 10:30:22",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "15/05/2026 11:52:03",
+        "tijdstip_kevin_of_stijn": "15/05/2026 11:59:03",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "18/05/2026 08:17:33",
+        "tijdstip_kevin_of_stijn": "18/05/2026 08:22:33",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "18/05/2026 10:19:42",
+        "tijdstip_kevin_of_stijn": "18/05/2026 10:26:42",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "18/05/2026 10:23:47",
+        "tijdstip_kevin_of_stijn": "18/05/2026 10:28:47",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "18/05/2026 17:01:06",
+        "tijdstip_kevin_of_stijn": "18/05/2026 17:05:06",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "18/05/2026 17:04:32",
+        "tijdstip_kevin_of_stijn": "18/05/2026 17:09:32",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "19/05/2026 12:34:25",
+        "tijdstip_kevin_of_stijn": "19/05/2026 12:39:25",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "20/05/2026 11:54:39",
+        "tijdstip_kevin_of_stijn": "20/05/2026 11:56:39",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "21/05/2026 14:59:50",
+        "tijdstip_kevin_of_stijn": "21/05/2026 15:05:50",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "26/05/2026 14:11:14",
+        "tijdstip_kevin_of_stijn": "26/05/2026 14:17:14",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "27/05/2026 08:33:36",
+        "tijdstip_kevin_of_stijn": "27/05/2026 08:35:36",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "27/05/2026 10:47:39",
+        "tijdstip_kevin_of_stijn": "27/05/2026 10:49:39",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "27/05/2026 10:48:08",
+        "tijdstip_kevin_of_stijn": "27/05/2026 10:55:08",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "01/06/2026 10:50:08",
+        "tijdstip_kevin_of_stijn": "01/06/2026 10:57:08",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "01/06/2026 15:23:46",
+        "tijdstip_kevin_of_stijn": "01/06/2026 15:28:46",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "02/06/2026 10:32:59",
+        "tijdstip_kevin_of_stijn": "02/06/2026 10:36:59",
+        "responstijd_minuten": 4
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "15/05/2026 09:52:30",
+        "tijdstip_kevin_of_stijn": "15/05/2026 09:56:30",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "15/05/2026 11:52:03",
+        "tijdstip_kevin_of_stijn": "15/05/2026 11:58:03",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "18/05/2026 08:17:33",
+        "tijdstip_kevin_of_stijn": "18/05/2026 08:19:33",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "18/05/2026 10:19:42",
+        "tijdstip_kevin_of_stijn": "18/05/2026 10:24:42",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "18/05/2026 17:01:06",
+        "tijdstip_kevin_of_stijn": "18/05/2026 17:03:06",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "18/05/2026 17:04:32",
+        "tijdstip_kevin_of_stijn": "18/05/2026 17:07:32",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "19/05/2026 12:34:25",
+        "tijdstip_kevin_of_stijn": "19/05/2026 12:36:25",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "20/05/2026 11:54:39",
+        "tijdstip_kevin_of_stijn": "20/05/2026 11:56:39",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "21/05/2026 14:59:50",
+        "tijdstip_kevin_of_stijn": "21/05/2026 15:05:50",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "26/05/2026 14:11:14",
+        "tijdstip_kevin_of_stijn": "26/05/2026 14:17:14",
+        "responstijd_minuten": 6
+      },
+      {
+        "tijdstip_klant": "27/05/2026 08:33:36",
+        "tijdstip_kevin_of_stijn": "27/05/2026 08:40:36",
+        "responstijd_minuten": 7
+      },
+      {
+        "tijdstip_klant": "01/06/2026 10:50:08",
+        "tijdstip_kevin_of_stijn": "01/06/2026 10:53:08",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "02/06/2026 10:32:59",
+        "tijdstip_kevin_of_stijn": "02/06/2026 10:35:59",
+        "responstijd_minuten": 3
+      }
+    ]
+  }
+}
