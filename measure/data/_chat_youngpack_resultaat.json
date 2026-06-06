@@ -1,0 +1,454 @@
+{
+  "bestand": "_chat_youngpack",
+  "statistieken": {
+    "support_gemiddelde_minuten": 162.8,
+    "support_mediaan_minuten": 19,
+    "support_aantal_issues": 5,
+    "feedbackrondes_totaal": 1,
+    "responstijd_gemiddelde_minuten": 206.1,
+    "responstijd_mediaan_minuten": 4.0,
+    "responstijd_aantal_metingen": 48,
+    "initiele_responstijd_gemiddelde_minuten": 270.3,
+    "initiele_responstijd_mediaan_minuten": 5,
+    "initiele_responstijd_aantal_metingen": 31
+  },
+  "detail": {
+    "support_issues": [
+      {
+        "omschrijving": "Mail ligt eruit - Wilco kan niet inloggen op oude mail",
+        "tijdstip_melding": "04/09/2024 10:15:39",
+        "tijdstip_reactie": "04/09/2024 10:32:14",
+        "responstijd_minuten": 17
+      },
+      {
+        "omschrijving": "Mailprobleem - Wilco krijgt geen mails binnen op info@",
+        "tijdstip_melding": "04/09/2024 12:34:12",
+        "tijdstip_reactie": "04/09/2024 12:35:04",
+        "responstijd_minuten": 1
+      },
+      {
+        "omschrijving": "Mailprobleem - Patricia krijgt geen mails binnen",
+        "tijdstip_melding": "06/09/2024 10:22:56",
+        "tijdstip_reactie": "06/09/2024 10:42:06",
+        "responstijd_minuten": 19
+      },
+      {
+        "omschrijving": "Klant ontvangt geen mail van noreply@dcnbv.nl",
+        "tijdstip_melding": "03/10/2025 03:37:19",
+        "tijdstip_reactie": "03/10/2025 13:18:56",
+        "responstijd_minuten": 582
+      },
+      {
+        "omschrijving": "Mailserver storing - geen mail ontvangen en verzenden lukt niet",
+        "tijdstip_melding": "07/10/2025 14:18:08",
+        "tijdstip_reactie": "07/10/2025 17:32:49",
+        "responstijd_minuten": 195
+      }
+    ],
+    "feedbackrondes": {
+      "aantal": 1,
+      "omschrijvingen": [
+        "Patricia geeft feedback over de inhoud van de website: 'Over ons' tekst, aanpassingen aan de template (kinderkleding verwijderen, werkkleding apart vak), en uitleg over borduren met voorbeelden."
+      ]
+    },
+    "algemene_responstijden": [
+      {
+        "tijdstip_klant": "30/08/2024 12:12:27",
+        "tijdstip_kevin_of_stijn": "30/08/2024 15:56:32",
+        "responstijd_minuten": 224
+      },
+      {
+        "tijdstip_klant": "30/08/2024 16:37:13",
+        "tijdstip_kevin_of_stijn": "30/08/2024 16:37:38",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "02/09/2024 11:08:53",
+        "tijdstip_kevin_of_stijn": "02/09/2024 11:10:47",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "04/09/2024 10:15:39",
+        "tijdstip_kevin_of_stijn": "04/09/2024 10:32:14",
+        "responstijd_minuten": 17
+      },
+      {
+        "tijdstip_klant": "04/09/2024 11:10:32",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:16:41",
+        "responstijd_minuten": 66
+      },
+      {
+        "tijdstip_klant": "04/09/2024 12:14:12",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:16:41",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "04/09/2024 12:34:12",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:35:04",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "04/09/2024 12:34:30",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:35:04",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "04/09/2024 12:35:12",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:55:21",
+        "responstijd_minuten": 20
+      },
+      {
+        "tijdstip_klant": "04/09/2024 13:16:03",
+        "tijdstip_kevin_of_stijn": "04/09/2024 13:31:42",
+        "responstijd_minuten": 16
+      },
+      {
+        "tijdstip_klant": "04/09/2024 14:19:21",
+        "tijdstip_kevin_of_stijn": "04/09/2024 14:21:50",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "04/09/2024 14:19:58",
+        "tijdstip_kevin_of_stijn": "04/09/2024 14:21:50",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "06/09/2024 10:08:59",
+        "tijdstip_kevin_of_stijn": "06/09/2024 10:42:06",
+        "responstijd_minuten": 33
+      },
+      {
+        "tijdstip_klant": "06/09/2024 10:22:56",
+        "tijdstip_kevin_of_stijn": "06/09/2024 10:42:06",
+        "responstijd_minuten": 19
+      },
+      {
+        "tijdstip_klant": "15/10/2024 10:18:04",
+        "tijdstip_kevin_of_stijn": "15/10/2024 10:22:42",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:04:28",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:08:06",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:04:43",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:08:06",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:12:22",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:12:39",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:13:36",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:17:31",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:14:18",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:17:31",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:21:56",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:40:42",
+        "responstijd_minuten": 19
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:57:25",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:59:27",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "26/03/2025 09:36:50",
+        "tijdstip_kevin_of_stijn": "26/03/2025 09:37:07",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "01/04/2025 13:38:36",
+        "tijdstip_kevin_of_stijn": "01/04/2025 13:42:42",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "02/04/2025 09:35:10",
+        "tijdstip_kevin_of_stijn": "02/04/2025 11:07:40",
+        "responstijd_minuten": 92
+      },
+      {
+        "tijdstip_klant": "15/10/2025 11:09:52",
+        "tijdstip_kevin_of_stijn": "15/10/2025 11:11:53",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "15/10/2025 11:10:13",
+        "tijdstip_kevin_of_stijn": "15/10/2025 11:13:37",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "16/10/2025 08:52:42",
+        "tijdstip_kevin_of_stijn": "16/10/2025 08:52:56",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "19/01/2026 13:00:58",
+        "tijdstip_kevin_of_stijn": "19/01/2026 16:41:26",
+        "responstijd_minuten": 220
+      },
+      {
+        "tijdstip_klant": "20/02/2026 13:02:57",
+        "tijdstip_kevin_of_stijn": "20/02/2026 13:08:13",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "20/02/2026 13:09:48",
+        "tijdstip_kevin_of_stijn": "20/02/2026 13:10:37",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "03/03/2026 14:53:28",
+        "tijdstip_kevin_of_stijn": "03/03/2026 14:54:35",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "03/03/2026 14:54:47",
+        "tijdstip_kevin_of_stijn": "03/03/2026 14:55:07",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "03/03/2026 14:55:11",
+        "tijdstip_kevin_of_stijn": "03/03/2026 14:55:14",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "09/03/2026 10:25:25",
+        "tijdstip_kevin_of_stijn": "09/03/2026 12:25:49",
+        "responstijd_minuten": 120
+      },
+      {
+        "tijdstip_klant": "09/03/2026 12:47:29",
+        "tijdstip_kevin_of_stijn": "09/03/2026 12:48:25",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "12/03/2026 08:44:59",
+        "tijdstip_kevin_of_stijn": "12/03/2026 11:43:56",
+        "responstijd_minuten": 179
+      },
+      {
+        "tijdstip_klant": "12/03/2026 11:49:30",
+        "tijdstip_kevin_of_stijn": "12/03/2026 12:32:31",
+        "responstijd_minuten": 43
+      },
+      {
+        "tijdstip_klant": "13/03/2026 12:14:15",
+        "tijdstip_kevin_of_stijn": "16/03/2026 13:17:31",
+        "responstijd_minuten": 4383
+      },
+      {
+        "tijdstip_klant": "16/03/2026 13:17:43",
+        "tijdstip_kevin_of_stijn": "16/03/2026 13:17:52",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "16/03/2026 13:18:46",
+        "tijdstip_kevin_of_stijn": "16/03/2026 13:20:31",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "16/03/2026 13:21:33",
+        "tijdstip_kevin_of_stijn": "17/03/2026 14:04:33",
+        "responstijd_minuten": 1483
+      },
+      {
+        "tijdstip_klant": "18/03/2026 11:27:32",
+        "tijdstip_kevin_of_stijn": "19/03/2026 10:41:15",
+        "responstijd_minuten": 1394
+      },
+      {
+        "tijdstip_klant": "18/03/2026 12:16:46",
+        "tijdstip_kevin_of_stijn": "19/03/2026 10:41:15",
+        "responstijd_minuten": 1344
+      },
+      {
+        "tijdstip_klant": "19/03/2026 11:29:19",
+        "tijdstip_kevin_of_stijn": "19/03/2026 12:42:28",
+        "responstijd_minuten": 73
+      },
+      {
+        "tijdstip_klant": "19/03/2026 11:29:52",
+        "tijdstip_kevin_of_stijn": "19/03/2026 12:42:28",
+        "responstijd_minuten": 73
+      },
+      {
+        "tijdstip_klant": "19/03/2026 13:01:14",
+        "tijdstip_kevin_of_stijn": "19/03/2026 13:28:41",
+        "responstijd_minuten": 27
+      },
+      {
+        "tijdstip_klant": "10/04/2026 14:23:28",
+        "tijdstip_kevin_of_stijn": "10/04/2026 14:23:53",
+        "responstijd_minuten": 0
+      }
+    ],
+    "initiele_responstijden": [
+      {
+        "tijdstip_klant": "30/08/2024 12:12:27",
+        "tijdstip_kevin_of_stijn": "30/08/2024 15:56:32",
+        "responstijd_minuten": 224
+      },
+      {
+        "tijdstip_klant": "02/09/2024 11:08:53",
+        "tijdstip_kevin_of_stijn": "02/09/2024 11:10:47",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "04/09/2024 10:15:39",
+        "tijdstip_kevin_of_stijn": "04/09/2024 10:32:14",
+        "responstijd_minuten": 17
+      },
+      {
+        "tijdstip_klant": "04/09/2024 11:10:32",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:16:41",
+        "responstijd_minuten": 66
+      },
+      {
+        "tijdstip_klant": "04/09/2024 12:34:12",
+        "tijdstip_kevin_of_stijn": "04/09/2024 12:35:04",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "04/09/2024 13:16:03",
+        "tijdstip_kevin_of_stijn": "04/09/2024 13:31:42",
+        "responstijd_minuten": 16
+      },
+      {
+        "tijdstip_klant": "04/09/2024 14:19:21",
+        "tijdstip_kevin_of_stijn": "04/09/2024 14:21:50",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "06/09/2024 10:08:59",
+        "tijdstip_kevin_of_stijn": "06/09/2024 10:42:06",
+        "responstijd_minuten": 33
+      },
+      {
+        "tijdstip_klant": "06/09/2024 10:22:56",
+        "tijdstip_kevin_of_stijn": "06/09/2024 10:42:06",
+        "responstijd_minuten": 19
+      },
+      {
+        "tijdstip_klant": "15/10/2024 10:18:04",
+        "tijdstip_kevin_of_stijn": "15/10/2024 10:22:42",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:04:28",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:08:06",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:04:43",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:08:06",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:12:22",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:12:39",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:13:36",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:17:31",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:14:18",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:17:31",
+        "responstijd_minuten": 3
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:21:56",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:40:42",
+        "responstijd_minuten": 19
+      },
+      {
+        "tijdstip_klant": "15/01/2025 11:57:25",
+        "tijdstip_kevin_of_stijn": "15/01/2025 11:59:27",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "01/04/2025 13:38:36",
+        "tijdstip_kevin_of_stijn": "01/04/2025 13:42:42",
+        "responstijd_minuten": 4
+      },
+      {
+        "tijdstip_klant": "02/04/2025 09:35:10",
+        "tijdstip_kevin_of_stijn": "02/04/2025 11:07:40",
+        "responstijd_minuten": 92
+      },
+      {
+        "tijdstip_klant": "15/10/2025 11:09:52",
+        "tijdstip_kevin_of_stijn": "15/10/2025 11:11:53",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "19/01/2026 13:00:58",
+        "tijdstip_kevin_of_stijn": "19/01/2026 16:41:26",
+        "responstijd_minuten": 220
+      },
+      {
+        "tijdstip_klant": "20/02/2026 13:02:57",
+        "tijdstip_kevin_of_stijn": "20/02/2026 13:08:13",
+        "responstijd_minuten": 5
+      },
+      {
+        "tijdstip_klant": "03/03/2026 14:53:28",
+        "tijdstip_kevin_of_stijn": "03/03/2026 14:54:35",
+        "responstijd_minuten": 1
+      },
+      {
+        "tijdstip_klant": "09/03/2026 10:25:25",
+        "tijdstip_kevin_of_stijn": "09/03/2026 12:25:49",
+        "responstijd_minuten": 120
+      },
+      {
+        "tijdstip_klant": "12/03/2026 08:44:59",
+        "tijdstip_kevin_of_stijn": "12/03/2026 11:43:56",
+        "responstijd_minuten": 179
+      },
+      {
+        "tijdstip_klant": "13/03/2026 12:14:15",
+        "tijdstip_kevin_of_stijn": "16/03/2026 13:17:31",
+        "responstijd_minuten": 4383
+      },
+      {
+        "tijdstip_klant": "16/03/2026 13:17:43",
+        "tijdstip_kevin_of_stijn": "16/03/2026 13:17:52",
+        "responstijd_minuten": 0
+      },
+      {
+        "tijdstip_klant": "16/03/2026 13:18:46",
+        "tijdstip_kevin_of_stijn": "16/03/2026 13:20:31",
+        "responstijd_minuten": 2
+      },
+      {
+        "tijdstip_klant": "16/03/2026 13:21:33",
+        "tijdstip_kevin_of_stijn": "17/03/2026 14:04:33",
+        "responstijd_minuten": 1483
+      },
+      {
+        "tijdstip_klant": "18/03/2026 11:27:32",
+        "tijdstip_kevin_of_stijn": "19/03/2026 10:41:15",
+        "responstijd_minuten": 1394
+      },
+      {
+        "tijdstip_klant": "19/03/2026 11:29:19",
+        "tijdstip_kevin_of_stijn": "19/03/2026 12:42:28",
+        "responstijd_minuten": 73
+      }
+    ]
+  }
+}
